@@ -1,5 +1,10 @@
 autocmd FileType css set omnifunc=csscomplete#CompleteCSS
 
+"更改下拉框颜色
+highlight Pmenu ctermbg=brown gui=bold
+highlight Pmenu ctermfg=254 ctermbg=241
+highlight PmenuSel ctermfg=254 ctermbg=136 cterm=bold
+
 syntax on
 "用来将tab键替换为四个空格键
 set ts=4
