@@ -11,6 +11,7 @@ set ts=4
 set shiftwidth=4
 set expandtab
 set autoindent
+set relativenumber "设置相对行号
 
 set nu  "打开行数显示 
 
