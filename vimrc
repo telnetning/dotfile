@@ -75,11 +75,11 @@ Bundle 'EasyMotion'
 "由于无法显示heading类型，暂时抛弃
 
 "Bundle 'snowfy/python-vim-instant-markdown'也不好使
-Bundle "swaroopch/vim-markdown-preview"
+"Bundle "swaroopch/vim-markdown-preview"
 
 "vim-instant-markdoiwn默认能识别.markdown,
 ".markd以及README.md。要想所有md结尾的都被识别，就需要这个插件
-Bundle 'tpope/vim-markdown'
+"Bundle 'tpope/vim-markdown'
 
 "有道翻譯 没有python+无法使用
 Bundle 'ianva/vim-youdao-translater'
